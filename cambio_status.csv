@@ -1,0 +1,18 @@
+Status,update_status
+Faturado,facturado
+Cancelado,cancelado
+Pagamento Aprovado,facturado
+Cancelamento Solicitado,cancelado
+Preparando Entrega,facturado
+Aguardando decisão do Seller,otros
+Pagamento Pendente,otros
+Verificando Fatura,facturado
+Cancelar,cancelado
+Aprovar Pagamento,facturado
+Pronto para o manuseio,facturado
+Iniciar manuseio,facturado
+Substituído,otros
+Pedido completo,facturado
+Aguardando troca do seller,otros
+Aguardando autorização para despachar,otros
+Finalizando pedido,facturado
