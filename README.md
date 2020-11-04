@@ -5,17 +5,17 @@ Proyecto de metodos estadisticos
 #  archivos a modificar tener cuidado
 #5 "Host" 4
 #9 "Status" 11
-#4 "Seller Name" 8 andres
+ listo 4 "Seller Name" 8 andres
 
 
 # quitea por el momento 12 "Category Ids Sku" 566 -> dividirlo y ponerle nombre
 #11 "Courrier" 156 incluida en SLA Type  meli
 #10 "Discounts Names" 10446 ->revisarlos por fechas homogenizar meli
 #8 "Payment System Name" 128 gustavo
-#7 "UtmSource" 110 andres
+listo 7 "UtmSource" 110 andres
 #3 "UtmMedium" 41 andres
 #6 "SLA Type" 67 gustavo
-#2 "Installments" 96 andres
+ listo 2 "Installments" 96 andres
 #1 "Coupon" 187 -> revisar homogenizar
 
 
